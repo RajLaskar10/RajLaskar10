@@ -34,7 +34,7 @@ I'm a graduate student at **Northeastern University, Boston**, pursuing an MS in
 ---
 
 ## 📫 Let's Connect
-- **LinkedIn**: [Raj Laskar](https://linkedin.com/in/rajlaskar1010)  
+- **LinkedIn**: [Raj Laskar](https://linkedin.com/in/raj1010)  
 - **Email**: [Raj.com](mailto:laskar.r@northeastern.edu)
 
 🎯 *"Business first, code second—solutions that deliver impact."*
