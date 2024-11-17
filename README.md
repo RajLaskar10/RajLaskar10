@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there, I'm Raj Laskar! 👋
 
-<!--
-**RajLaskar10/RajLaskar10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a graduate student at **Northeastern University, Boston**, pursuing an MS in **Computer Science**. With a **consultant's mindset**, I focus on solving complex business challenges through strategic thinking and scalable solutions—where **code is a tool, not the goal**. My approach is driven by outcomes, ensuring that every solution aligns with broader business objectives.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- **Programming**: Python, Java, SQL, R  
+- **Tools**: AWS, Azure, Jenkins, Docker, ReactJS  
+- **Specializations**: Software Development, Cloud Architecture, Data-Driven Applications  
+
+---
+
+## 🚀 Current Project
+- **Outlook Business Insights Extractor**:  
+   Automating the extraction of actionable insights from Outlook emails using the Microsoft Graph API. This application processes email metadata, downloads attachments, and exports structured data to Excel for enhanced business decision-making.
+
+---
+
+## 💼 Experience
+- **Consultant, EY**: Developed AI-powered automation tools, optimizing legal workflows and reducing costs.  
+- **Workflow Architect, EY**: Designed end-to-end workflows and scalable cloud solutions for vendor operations.
+
+---
+
+## 📫 Let's Connect
+- **LinkedIn**: [linkedin.com/in/rajlaskar](https://linkedin.com/in/rajlaskar10)  
+- **Email**: [savaliya.y786@gmail.com](mailto:laskar.r@northeastern.edu)
+
+🎯 *"Business first, code second—solutions that deliver impact."*
