@@ -24,7 +24,7 @@ I'm a graduate student at **Northeastern University, Boston**, pursuing an MS in
 ---
 
 ## 📫 Let's Connect
-- **LinkedIn**: [linkedin.com/in/rajlaskar](https://linkedin.com/in/rajlaskar10)  
-- **Email**: [savaliya.y786@gmail.com](mailto:laskar.r@northeastern.edu)
+- **LinkedIn**: [Raj Laskar](https://linkedin.com/in/rajlaskar1010)  
+- **Email**: [Raj.com](mailto:laskar.r@northeastern.edu)
 
 🎯 *"Business first, code second—solutions that deliver impact."*
