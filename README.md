@@ -26,6 +26,7 @@ I'm a graduate student at **Northeastern University, Boston**, pursuing an MS in
    Automating the extraction of actionable insights from Outlook emails using the Microsoft Graph API. This application processes email metadata, downloads attachments, and exports structured data to Excel for enhanced business decision-making.
 
 - **Factory Sensor (AlertWorks)**:
+  
    Automated end-to-end demo project showcasing how to build a real-time IoT streaming pipeline with Azure and open-source tools. It simulates machines sending telemetry, processes hot-alert events in the cloud, stores alerts in Blob Storage, visualizes data in a Streamlit dashboard, automates notifications with Power Automate, and enables executive reporting via Power BI.
   
 
