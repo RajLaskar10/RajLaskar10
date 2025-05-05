@@ -21,7 +21,7 @@ I'm a graduate student at **Northeastern University, Boston**, pursuing an MS in
 
 ---
 
-## 🚀 Current Projecst
+## 🚀 Current Projects
 - **Outlook Business Insights Extractor**:  
    Automating the extraction of actionable insights from Outlook emails using the Microsoft Graph API. This application processes email metadata, downloads attachments, and exports structured data to Excel for enhanced business decision-making.
 
