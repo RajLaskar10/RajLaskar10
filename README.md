@@ -25,7 +25,7 @@ I'm a graduate student at **Northeastern University, Boston**, pursuing an MS in
 - **Football Analytica**:      
    Developed an end-to-end computer vision pipeline that transforms raw match footage into actionable insights. Leveraging YOLOv8 for ultra-fast object detection, it automatically detects and tracks players, referees, and the ball; assigns players to teams via K-means jersey-color clustering; compensates for camera motion with optical flow; and applies perspective transformation to convert pixel data into real-world metrics. The result? Detailed analytics-such as ball-possession percentages, player speed, and distance covered-ready to inform pre-match tactics, in-game strategy, and post-match analysis for coaches, analysts, and fans alike.
 
--**IntelligentDocReader••:   
+- **IntelligentDocReader**:   
    Intelligent Doc Reader streamlines Azure-based invoice processing: upload PDFs to Blob Storage, automatically invoke a Python Azure Function to extract fields via Form Recognizer, and present both structured JSON and embedded PDFs in Power BI. It’s a concise showcase of serverless workflows, cognitive services, and BI integration.
 
 - **Factory Sensor (AlertWorks)**:   
