@@ -1,6 +1,6 @@
 # Hi there, I'm Raj Laskar! 👋
 
-I'm a graduate student at **Northeastern University, Boston**, pursuing an MS in **Computer Science**. With a **consultant's mindset**, I focus on solving complex business challenges through strategic thinking and scalable solutions—where **code is a tool, not the goal**. My approach is driven by outcomes, ensuring that every solution aligns with broader business objectives.
+I'm a graduate student at **Northeastern University, Boston**, pursuing an MS in **Computer Science**. With a **consultant's mindset**, I focus on solving complex business challenges through strategic thinking and scalable solutions-where **code is a tool, not the goal**. My approach is driven by outcomes, ensuring that every solution aligns with broader business objectives.
 
 ---
 
