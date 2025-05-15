@@ -28,7 +28,7 @@ I'm a graduate student at **Northeastern University, Boston**, pursuing an MS in
 - **Factory Sensor (AlertWorks)**:   
   Automated end-to-end demo project showcasing how to build a real-time IoT streaming pipeline with Azure and open-source tools. It simulates machines sending telemetry, processes hot-alert events in the cloud, stores alerts in Blob Storage, visualizes data in a Streamlit dashboard, automates notifications with Power Automate, and enables executive reporting via Power BI.
 
--- **F**:
+- **F**:
    Football Analytica is an end-to-end computer vision pipeline that transforms raw match footage into actionable insights. Leveraging YOLOv8 for ultra-fast object detection, it automatically detects and tracks players, referees, and the ball; assigns players to teams via K-means jersey-color clustering; compensates for camera motion with optical flow; and applies perspective transformation to convert pixel data into real-world metrics. The result? Detailed analytics—such as ball-possession percentages, player speed, and distance covered—ready to inform pre-match tactics, in-game strategy, and post-match analysis for coaches, analysts, and fans alike.  
 
 ---
