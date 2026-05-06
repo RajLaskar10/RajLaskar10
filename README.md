@@ -1,6 +1,6 @@
 # Hi there, I'm Raj Laskar! 👋
 
-I'm an **MS in Computer Science** graduate from **Northeastern University, Boston**. With a **consultant's mindset**, I focus on solving complex business challenges through strategic thinking and scalable solutions—where **code is a tool, not the goal**. My approach is driven by outcomes, ensuring that every solution aligns with broader business objectives.
+I'm an **MS in Computer Science** graduate from **Northeastern University, Boston**. With a **consultant's mindset**, I focus on solving complex business challenges through strategic thinking and scalable solutions-where **code is a tool, not the goal**. My approach is driven by outcomes, ensuring that every solution aligns with broader business objectives.
 
 ---
 
@@ -43,6 +43,6 @@ I'm an **MS in Computer Science** graduate from **Northeastern University, Bosto
 - **Email**: [laskar.r@northeastern.edu](mailto:laskar.r@northeastern.edu)
 - **Previous GitHub**: [RajGit](https://github.com/Rajcody)
 
-🎯 _"Business first, code second—solutions that deliver impact."_
+🎯 _"Business first, code second-solutions that deliver impact."_
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RajLaskar10&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=RajLaskar10&show_icons=true&theme=radical) [![Profile Views](https://komarev.com/ghpvc/?username=RajLaskar10)](https://komarev.com/ghpvc/?username=RajLaskar10)
