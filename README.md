@@ -1,57 +1,48 @@
 # Hi there, I'm Raj Laskar! 👋
 
-I'm a graduate student at **Northeastern University, Boston**, pursuing an MS in **Computer Science**. With a **consultant's mindset**, I focus on solving complex business challenges through strategic thinking and scalable solutions-where **code is a tool, not the goal**. My approach is driven by outcomes, ensuring that every solution aligns with broader business objectives.
+I'm an **MS in Computer Science** graduate from **Northeastern University, Boston**. With a **consultant's mindset**, I focus on solving complex business challenges through strategic thinking and scalable solutions—where **code is a tool, not the goal**. My approach is driven by outcomes, ensuring that every solution aligns with broader business objectives.
 
 ---
 
 ## 🛠️ Skills
 
 ### Programming
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-336791?style=flat&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
+
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) [![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) [![SQL](https://img.shields.io/badge/-SQL-336791?style=flat&logo=postgresql&logoColor=white)](https://img.shields.io/badge/-SQL-336791?style=flat&logo=postgresql&logoColor=white) [![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
 
 ### Tools
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+
+[![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) [![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white) [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) [![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) [![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 
 ---
 
-## 🚀 Current Projects
-- **Football Analytica**:      
-   An end-to-end computer vision pipeline that transforms raw match footage into actionable insights. Leveraging YOLOv8 for ultra-fast object detection, it automatically detects and tracks players, referees, and the ball; assigns players to teams via K-means jersey-color clustering; compensates for camera motion with optical flow; and applies perspective transformation to convert pixel data into real-world metrics. The result? Detailed analytics-such as ball-possession percentages, player speed, and distance covered-ready to inform pre-match tactics, in-game strategy, and post-match analysis for coaches, analysts, and fans alike.
+## 🚀 Featured Projects
 
-- **IntelligentDocReader**:   
-   Intelligent Doc Reader streamlines Azure-based invoice processing: upload PDFs to Blob Storage, automatically invoke a Python Azure Function to extract fields via Form Recognizer, and present both structured JSON and embedded PDFs in Power BI. It’s a concise showcase of serverless workflows, cognitive services, and BI integration.
+- **[Compliance-Aware Marketplace](https://github.com/RajLaskar10/compliance-marketplace)**: Full-stack app (React, Express, PostgreSQL, AWS) with KYC verification, real-time transaction flagging (HIGH_VALUE, VELOCITY, SAME_IP, NEW_ACCOUNT rules), append-only audit logging, and admin review queue. Deployed on EC2, RDS, S3, and CloudFront.
 
-- **Factory Sensor (AlertWorks)**:   
-  Automated end-to-end demo project showcasing how to build a real-time IoT streaming pipeline with Azure and open-source tools. It simulates machines sending telemetry, processes hot-alert events in the cloud, stores alerts in Blob Storage, visualizes data in a Streamlit dashboard, automates notifications with Power Automate, and enables executive reporting via Power BI.  
-  
-- **Outlook Business Insights Extractor**:  
-   Automating the extraction of actionable insights from Outlook emails using the Microsoft Graph API. This application processes email metadata, downloads attachments, and exports structured data to Excel for enhanced business decision-making.
+- **[Fraud Detection Pipeline](https://github.com/RajLaskar10/fraud-detection-pipeline)**: End-to-end ML pipeline on the Kaggle Credit Card dataset using Random Forest with threshold tuning. Results persisted in Supabase and surfaced via a live Streamlit dashboard for compliance analyst review.
 
+- **[Sports Analytics Dashboard](https://github.com/RajLaskar10/sports-analytics-dashboard)**: Football analytics pipeline for the 2018 FIFA World Cup — StatsBomb event data processed and loaded into Supabase, visualized through an interactive Streamlit dashboard.
 
+- **[Football Analytica](https://github.com/RajLaskar10/Football-Analytica)**: Computer vision pipeline using YOLOv8 for player/ball detection, jersey-color K-means clustering, optical flow compensation, and perspective transformation to produce real-world metrics (possession, speed, distance).
 
- 
+- **[Contracker](https://github.com/CS-7180/Contracker)**: Web app for managing contracts and supplier relationships with renewal alerts, spend tracking, and compliance monitoring.
 
 ---
 
 ## 💼 Experience
-- **Consultant, EY**: Developed AI-powered automation tools, optimizing legal workflows and reducing costs.  
+
+- **Consultant, EY**: Developed AI-powered automation tools optimizing legal workflows and reducing costs.
 - **Workflow Architect, EY**: Designed end-to-end workflows and scalable cloud solutions for vendor operations.
 
 ---
 
 ## 📫 Let's Connect
-- **LinkedIn**: [Raj Laskar](https://linkedin.com/in/raj1010)  
-- **Email**: [Raj.com](mailto:laskar.r@northeastern.edu)
-- **Git-Old**: [RajGit.com](https://github.com/Rajcody)
 
-🎯 *"Business first, code second—solutions that deliver impact."*
+- **LinkedIn**: [Raj Laskar](https://linkedin.com/in/raj1010)
+- **Email**: [laskar.r@northeastern.edu](mailto:laskar.r@northeastern.edu)
+- **Previous GitHub**: [RajGit](https://github.com/Rajcody)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RajLaskar10&show_icons=true&theme=radical)
-![Profile Views](https://komarev.com/ghpvc/?username=RajLaskar10)
+🎯 _"Business first, code second—solutions that deliver impact."_
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RajLaskar10&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=RajLaskar10&show_icons=true&theme=radical) [![Profile Views](https://komarev.com/ghpvc/?username=RajLaskar10)](https://komarev.com/ghpvc/?username=RajLaskar10)
