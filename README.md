@@ -26,6 +26,8 @@ I'm an **MS in Computer Science** graduate from **Northeastern University, Bosto
 
 - **[Football Analytica](https://github.com/RajLaskar10/Football-Analytica)**: Computer vision pipeline using YOLOv8 for player/ball detection, jersey-color K-means clustering, optical flow compensation, and perspective transformation to produce real-world metrics (possession, speed, distance).
 
+- **[Rate Limiter](https://github.com/RajLaskar10/rate-limiter)**: Redis-backed rate limiting API using the token bucket algorithm — allows bursts, enforces steady-state limits, and returns retry-after when blocked. Built with FastAPI, deployed on AWS EC2, visualized with a live [Streamlit dashboard](https://rate-limiter-p4sy2w3onycbpntucxzwzx.streamlit.app/), and load tested with Locust at ~300 RPS across 100 concurrent users.
+
 - **[Contracker](https://github.com/CS-7180/Contracker)**: Web app for managing contracts and supplier relationships with renewal alerts, spend tracking, and compliance monitoring.
 
 ---
