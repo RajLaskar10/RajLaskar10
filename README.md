@@ -22,11 +22,11 @@ I'm an **MS in Computer Science** graduate from **Northeastern University, Bosto
 
 - **[Fraud Detection Pipeline](https://github.com/RajLaskar10/fraud-detection-pipeline)**: End-to-end ML pipeline on the Kaggle Credit Card dataset using Random Forest with threshold tuning. Results persisted in Supabase and surfaced via a live Streamlit dashboard for compliance analyst review.
 
-- **[Sports Analytics Dashboard](https://github.com/RajLaskar10/sports-analytics-dashboard)**: Football analytics pipeline for the 2018 FIFA World Cup — StatsBomb event data processed and loaded into Supabase, visualized through an interactive Streamlit dashboard.
+- **[Sports Analytics Dashboard](https://github.com/RajLaskar10/sports-analytics-dashboard)**: Football analytics pipeline for the 2018 FIFA World Cup. StatsBomb event data processed and loaded into Supabase, visualized through an interactive Streamlit dashboard.
 
 - **[Football Analytica](https://github.com/RajLaskar10/Football-Analytica)**: Computer vision pipeline using YOLOv8 for player/ball detection, jersey-color K-means clustering, optical flow compensation, and perspective transformation to produce real-world metrics (possession, speed, distance).
 
-- **[Rate Limiter](https://github.com/RajLaskar10/rate-limiter)**: Redis-backed rate limiting API using the token bucket algorithm — allows bursts, enforces steady-state limits, and returns retry-after when blocked. Built with FastAPI, deployed on AWS EC2, visualized with a live [Streamlit dashboard](https://rate-limiter-p4sy2w3onycbpntucxzwzx.streamlit.app/), and load tested with Locust at ~300 RPS across 100 concurrent users.
+- **[Rate Limiter](https://github.com/RajLaskar10/rate-limiter)**: Redis-backed rate limiting API using the token bucket algorithm. allows bursts, enforces steady-state limits, and returns retry-after when blocked. Built with FastAPI, deployed on AWS EC2, visualized with a live [Streamlit dashboard](https://rate-limiter-p4sy2w3onycbpntucxzwzx.streamlit.app/), and load tested with Locust at ~300 RPS across 100 concurrent users.
 
 - **[Contracker](https://github.com/CS-7180/Contracker)**: Web app for managing contracts and supplier relationships with renewal alerts, spend tracking, and compliance monitoring.
 
