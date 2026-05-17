@@ -18,6 +18,8 @@ I'm an **MS in Computer Science** graduate from **Northeastern University, Bosto
 
 ## 🚀 Featured Projects
 
+- **[Cloud Media Pipeline](https://github.com/RajLaskar10/Cloud-Media-Pipeline)**: Serverless, event-driven media pipeline on AWS. A React + Vite frontend uploads images directly to S3 via pre-signed URLs; S3 events trigger a Python Lambda that runs FFmpeg (via Lambda Layer) to encode an H.264 `.mp4`, which is served globally through CloudFront. Built entirely within the AWS Free Tier using API Gateway, two isolated S3 buckets, and a 1 GB / 300 s Lambda configuration tuned for FFmpeg throughput.
+
 - **[Compliance-Aware Marketplace](https://github.com/RajLaskar10/compliance-marketplace)**: Full-stack app (React, Express, PostgreSQL, AWS) with KYC verification, real-time transaction flagging (HIGH_VALUE, VELOCITY, SAME_IP, NEW_ACCOUNT rules), append-only audit logging, and admin review queue. Deployed on EC2, RDS, S3, and CloudFront.
 
 - **[Fraud Detection Pipeline](https://github.com/RajLaskar10/fraud-detection-pipeline)**: End-to-end ML pipeline on the Kaggle Credit Card dataset using Random Forest with threshold tuning. Results persisted in Supabase and surfaced via a live Streamlit dashboard for compliance analyst review.
